@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreDeletingNullableReference", "EFCoreDeletingNullableReference\EFCoreDeletingNullableReference.csproj", "{87135705-9BD3-4421-AFD4-A22F626CAF25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{4F80D141-F3E3-4A1C-BC1D-6C70F9C58786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87135705-9BD3-4421-AFD4-A22F626CAF25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87135705-9BD3-4421-AFD4-A22F626CAF25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87135705-9BD3-4421-AFD4-A22F626CAF25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87135705-9BD3-4421-AFD4-A22F626CAF25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F80D141-F3E3-4A1C-BC1D-6C70F9C58786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F80D141-F3E3-4A1C-BC1D-6C70F9C58786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F80D141-F3E3-4A1C-BC1D-6C70F9C58786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F80D141-F3E3-4A1C-BC1D-6C70F9C58786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {372CD609-FEFA-4482-9524-54636980E049}
+	EndGlobalSection
+EndGlobal
